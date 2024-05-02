@@ -5,7 +5,8 @@ const count = document.querySelector(".count b");
 
 // 6. 질문갯수 변수 저장
 const trLength = tr.length / 2;
-// console.log(trLength);
+//
+console.log(trLength);
 
 // 7. 질문갯수 텍스트 삽입
 count.innerText = trLength;

@@ -14,6 +14,17 @@
   border: 3px solid tomato;
   grid-column: 2 / 4;
 }
+.preview__title {
+  border: 3px solid rgb(193, 231, 135);
+  grid-column: 2 / 4;
+}
+.preview__link {
+  border: 3px solid skyblue;
+  grid-column: 2 / 4;
+}
+input {
+  border: 2px solid salmon;
+}
 .skeleton {
   background-color: gray;
   position: relative;
